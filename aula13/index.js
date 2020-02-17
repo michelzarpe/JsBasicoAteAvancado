@@ -16,3 +16,5 @@
 //string.substring(1,10); copia de inicio para o fim
 //string.split('') dividir a string por algum caracter retornando um array
 // w3school para mais informacoes;
+// document.write('') escreve no html
+// document.body.innerHTML='qualquer outra coisa' tags e texto
