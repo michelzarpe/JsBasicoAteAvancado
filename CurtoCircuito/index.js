@@ -5,8 +5,6 @@
 //console.log('Luiz Gustavo' && true && 'Maria')// maria
 //console.log(false && 'LALALA' && 'Maria')
 
-
-
 let oi = () =>{
     return 'OI';
 };
